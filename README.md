@@ -9,6 +9,7 @@ El programa es un journey de 12 sesiones (11 estaciones + Demo Day) donde constr
 | Carpeta | Qué es |
 |---------|--------|
 | [`Estación 1`](./Estación%201) | Introducción y Demostración — templates de la tarea (Product Vision Board / Internal Solution Brief), banco de productos y la demo de referencia AI-DLC |
+| [`Estación 2`](./Estación%202) | Descubrimiento y Definición — plantilla para co-crear tu PRD con AI: `prompts-especificacion.md`, ejemplo trabajado (AgentVault) en `docs/` y `specs/` para tu entregable |
 
 > Las estaciones siguientes se irán agregando a medida que avanza la cohorte.
 
