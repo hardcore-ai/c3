@@ -1,6 +1,6 @@
-# Live Demo: Design Standards and Skills en el repo C2
+# Live Demo: Design Standards and Skills en el repo C3
 
-Esta demo abre Estación 6. Muestra cómo aplicar estándares y skills de diseño según el artículo "Fixing Visual AI Slop" dentro del repo real de Cohorte 2, y produce los slides HTML/PDF que se usarán durante el resto de la sesión.
+Esta demo abre Estación 6. Muestra cómo aplicar estándares y skills de diseño según el artículo "Fixing Visual AI Slop" dentro del repo real de Cohorte 3, y produce los slides HTML/PDF que se usarán durante el resto de la sesión.
 
 La tesis que debe quedar clara:
 
@@ -24,8 +24,8 @@ Archivos a abrir:
 
 - `PRODUCT.md`
 - `DESIGN.md`
-- `c2/Estación 6/README.md`
-- `c2/Estación 6/slides/estacion6-slides.md`
+- `c3/Estación 6/README.md`
+- `c3/Estación 6/slides/estacion6-slides.md`
 
 Qué decir:
 
@@ -51,7 +51,7 @@ Usar este prompt sobre el repo:
 ```text
 Usa PRODUCT.md y DESIGN.md como contexto canónico.
 
-Quiero convertir c2/Estación 6/slides/estacion6-slides.md en una presentación HTML y luego renderizarla a PDF.
+Quiero convertir c3/Estación 6/slides/estacion6-slides.md en una presentación HTML y luego renderizarla a PDF.
 
 Requisitos:
 - Lee PRODUCT.md y DESIGN.md antes de diseñar.
