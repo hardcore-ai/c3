@@ -7,7 +7,7 @@
 ## 1. Cover
 
 **Tipo:** cover  
-**Eyebrow:** ESTACIÓN 6 · COHORTE 2  
+**Eyebrow:** ESTACIÓN 6 · COHORTE 3  
 **Título:** Implementando  
 **Subtítulo:** Scaffolding, diseño agencial y sistemas de ejecución  
 **Nota:** Abrir con cambio de zoom: AI-DLC dio el contrato; ahora elegimos cómo ejecutar.
