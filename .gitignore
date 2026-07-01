@@ -5,3 +5,9 @@ node_modules/
 .DS_Store
 dist/
 .next/
+.opensymphony*
+!.opensymphony/
+.opensymphony/*
+!.opensymphony/memory/
+.opensymphony/memory/*
+!.opensymphony/memory/memory.yaml
